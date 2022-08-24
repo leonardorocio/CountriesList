@@ -8,3 +8,6 @@ Comandos para instalação de bibliotecas:
 pip install openpyxl
 
 pip install requests
+
+
+Após isso, basta criar uma nova pasta, inserir o arquivo main.py dentro dela e então executá-lo com o Python que será gerado um arquivo xlsx nomeado de countries.xlsx.
