@@ -4,5 +4,7 @@ O programa faz uma requisição HTTP para uma API REST que tem dados sobre todos
 Python 3 e PIP instalados e configurados no PATH.
 
 Comandos para instalação de bibliotecas:
+
 pip install openpyxl
+
 pip install requests
